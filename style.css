@@ -1,0 +1,35 @@
+:root {
+  --graphic-purple: #b13ff7;
+  --graphic-pink: #e943f4;
+}
+
+body {
+  background-color: #f7f7f7;
+  margin-bottom: 100px; 
+}
+
+.phone {
+  max-width: 100%;
+
+}
+
+.graphic {
+  width: 643px;
+  height: 1245px;
+  flex-shrink: 0;
+  border-radius: 1264px;
+  position: fixed;
+  background: var(--graphic-purple);
+  top: 0;
+  left: 0;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
