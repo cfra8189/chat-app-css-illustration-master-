@@ -1,4 +1,6 @@
 Frontend Mentor | Chat App CSS Illustration
+Challenge Link:
+https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY
 
 Overview
 A responsive landing page featuring a chat app mockup and descriptive text, built using Bootstrap 5.
