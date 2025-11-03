@@ -6,15 +6,12 @@
 body {
   background-color: #f7f7f7;
   margin-bottom: 100px; 
-  transform: scale(1);
 }
 
 .phone {
   max-width: 100%;
 
 }
-
-
 
 .graphic {
   width: 643px;
@@ -35,4 +32,10 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 768px) {
+  .graphic {
+    position: fixed;
+  }
 }
